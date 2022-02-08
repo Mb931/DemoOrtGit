@@ -11,5 +11,6 @@ package demoortgit;
  */
 public class Etudiant {
     private int id;
+    private double moyenne;
     
 }
